@@ -156,24 +156,4 @@ newsAgency.attach(observer);
 newsAgency.setNews("Breaking news!");
 ```
 
-## Getting Started
-
-1. Clone the repository
-2. Build using CMake:
-```bash
-mkdir build
-cd build
-cmake ..
-make
-```
-
-## Contributing
-
-Feel free to contribute by:
-1. Forking the repository
-2. Creating a feature branch
-3. Submitting a pull request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
+ 
