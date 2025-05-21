@@ -6,4 +6,4 @@ namespace observer {
 // Implementation is in the header file
 
 } // namespace observer
-} // namespace behavioral 
+} // namespace behavioral
