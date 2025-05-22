@@ -13,7 +13,7 @@ public:
     virtual void notifyUser() = 0;
 };
 
-// Concrete Products
+// Concrete Product 
 class SMSNotification : public Notification {
 public:
     void notifyUser() override {
