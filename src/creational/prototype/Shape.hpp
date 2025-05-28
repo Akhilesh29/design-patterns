@@ -6,7 +6,7 @@
 namespace creational {
 namespace prototype {
 
-// Prototype interface
+// Prototype interface---> its similler to inheritance in oops, but inheritacne is not feasible for large and complex projects
 class Shape {
 public:
     virtual ~Shape() = default;
