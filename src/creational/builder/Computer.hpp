@@ -3,6 +3,8 @@
 #include <memory>
 #include <iostream>
 
+
+// here we create each object step by step by using methods rather then using consturctor
 namespace creational {
 namespace builder {
 
