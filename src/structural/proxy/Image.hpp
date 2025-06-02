@@ -3,6 +3,8 @@
 #include <memory>
 #include <iostream>
 
+// {subject--> real subject-->proxy}
+
 namespace structural {
 namespace proxy {
 
