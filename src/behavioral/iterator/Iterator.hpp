@@ -7,6 +7,7 @@ namespace behavioral {
 namespace iterator {
 
 // Iterator interface
+
 template<typename T>
 class Iterator {
 public:
