@@ -34,7 +34,7 @@ public:
     }
 };
 
-// Concrete Products for Mac
+// -->for mac
 class MacCPU : public CPU {
 public:
     void process() override {
@@ -80,5 +80,4 @@ public:
     }
 };
 
-} // namespace abstractfactory
-} // namespace creational 
+} 
