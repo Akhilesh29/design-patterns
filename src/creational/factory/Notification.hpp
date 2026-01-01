@@ -25,7 +25,7 @@ public:
 class EmailNotification : public Notification {
 public:
     void notifyUser() override {
-        std::cout << "Sending an email notification" << std::endl;
+        std::cout << "Sending an Email notification" << std::endl;
     }
 };
 
