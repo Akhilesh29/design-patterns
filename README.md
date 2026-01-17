@@ -1,4 +1,4 @@
-# Design Patterns in C++
+# design patterns in c++
 
 
 
